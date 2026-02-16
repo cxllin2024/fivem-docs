@@ -276,14 +276,6 @@ weight: 10
             </div>
         </div>
         <div class="vehicle">
-            <img src="/vehicles/driftchavosv6.webp" alt="Chavos V6">
-            <div class="vehicle-info">
-                <span><strong>Display Name:</strong> Chavos V6</span>
-                <span><strong>Hash:</strong> 457814204</span>
-                <span><strong>Model Name:</strong> driftchavosv6</span>
-            </div>
-        </div>
-        <div class="vehicle">
             <img src="/vehicles/cog55.webp" alt="Cognoscenti 55">
             <div class="vehicle-info">
                 <span><strong>Display Name:</strong> Cognoscenti 55</span>
@@ -324,11 +316,11 @@ weight: 10
             </div>
         </div>
         <div class="vehicle">
-            <img src="/vehicles/hardy.webp" alt="Hardy">
+            <img src="/vehicles/driftchavosv6.webp" alt="Chavos V6">
             <div class="vehicle-info">
-                <span><strong>Display Name:</strong> Hardy</span>
-                <span><strong>Hash:</strong> 1580292663</span>
-                <span><strong>Model Name:</strong> hardy</span>
+                <span><strong>Display Name:</strong> Chavos V6</span>
+                <span><strong>Hash:</strong> 457814204</span>
+                <span><strong>Model Name:</strong> driftchavosv6</span>
             </div>
         </div>
         <div class="vehicle">
@@ -388,6 +380,14 @@ weight: 10
             </div>
         </div>
         <div class="vehicle">
+            <img src="/vehicles/hardy.webp" alt="Hardy">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> Hardy</span>
+                <span><strong>Hash:</strong> 1580292663</span>
+                <span><strong>Model Name:</strong> hardy</span>
+            </div>
+        </div>
+        <div class="vehicle">
             <img src="/vehicles/impaler5.webp" alt="Impaler SZ">
             <div class="vehicle-info">
                 <span><strong>Display Name:</strong> Impaler SZ</span>
@@ -412,19 +412,19 @@ weight: 10
             </div>
         </div>
         <div class="vehicle">
-            <img src="/vehicles/minimus.webp" alt="Minimus">
-            <div class="vehicle-info">
-                <span><strong>Display Name:</strong> Minimus</span>
-                <span><strong>Hash:</strong> -1101107018</span>
-                <span><strong>Model Name:</strong> minimus</span>
-            </div>
-        </div>
-        <div class="vehicle">
             <img src="/vehicles/limo2.webp" alt="Turreted Limo">
             <div class="vehicle-info">
                 <span><strong>Display Name:</strong> Turreted Limo</span>
                 <span><strong>Hash:</strong> 4180339789</span>
                 <span><strong>Model Name:</strong> limo2</span>
+            </div>
+        </div>
+        <div class="vehicle">
+            <img src="/vehicles/minimus.webp" alt="Minimus">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> Minimus</span>
+                <span><strong>Hash:</strong> -1101107018</span>
+                <span><strong>Model Name:</strong> minimus</span>
             </div>
         </div>
         <div class="vehicle">
@@ -1342,6 +1342,14 @@ weight: 10
             </div>
         </div>
         <div class="vehicle">
+            <img src="/vehicles/driftgauntlet4.webp" alt="Gauntlet Hellfire">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> Gauntlet Hellfire</span>
+                <span><strong>Hash:</strong> -361348193</span>
+                <span><strong>Model Name:</strong> driftgauntlet4</span>
+            </div>
+        </div>
+        <div class="vehicle">
             <img src="/vehicles/driftyosemite.webp" alt="Drift Yosemite">
             <div class="vehicle-info">
                 <span><strong>Display Name:</strong> Drift Yosemite</span>
@@ -1451,14 +1459,6 @@ weight: 10
                 <span><strong>Display Name:</strong> Gauntlet Classic Custom</span>
                 <span><strong>Hash:</strong> 2172320429</span>
                 <span><strong>Model Name:</strong> gauntlet5</span>
-            </div>
-        </div>
-        <div class="vehicle">
-            <img src="/vehicles/driftgauntlet4.webp" alt="Gauntlet Hellfire">
-            <div class="vehicle-info">
-                <span><strong>Display Name:</strong> Gauntlet Hellfire</span>
-                <span><strong>Hash:</strong> -361348193</span>
-                <span><strong>Model Name:</strong> driftgauntlet4</span>
             </div>
         </div>
         <div class="vehicle">
@@ -4896,6 +4896,14 @@ weight: 10
             </div>
         </div>
         <div class="vehicle">
+            <img src="/vehicles/dkeitora.webp" alt="Keitora">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> Keitora</span>
+                <span><strong>Hash:</strong> -1555091703</span>
+                <span><strong>Model Name:</strong> dkeitora</span>
+            </div>
+        </div>
+        <div class="vehicle">
             <img src="/vehicles/docktrailer.webp" alt="null">
             <div class="vehicle-info">
                 <span><strong>Display Name:</strong> null</span>
@@ -4933,14 +4941,6 @@ weight: 10
                 <span><strong>Display Name:</strong> Graintrailer</span>
                 <span><strong>Hash:</strong> 1019737494</span>
                 <span><strong>Model Name:</strong> graintrailer</span>
-            </div>
-        </div>
-        <div class="vehicle">
-            <img src="/vehicles/dkeitora.webp" alt="Keitora">
-            <div class="vehicle-info">
-                <span><strong>Display Name:</strong> Keitora</span>
-                <span><strong>Hash:</strong> -1555091703</span>
-                <span><strong>Model Name:</strong> dkeitora</span>
             </div>
         </div>
         <div class="vehicle">
@@ -6619,14 +6619,6 @@ weight: 10
             </div>
         </div>
         <div class="vehicle">
-            <img src="/vehicles/polgauntlet.webp" alt="Gauntlet Interceptor">
-            <div class="vehicle-info">
-                <span><strong>Display Name:</strong> Gauntlet Interceptor</span>
-                <span><strong>Hash:</strong> 3061199846</span>
-                <span><strong>Model Name:</strong> polgauntlet</span>
-            </div>
-        </div>
-        <div class="vehicle">
             <img src="/vehicles/polbuffalo.webp" alt="Buffalo Cruiser">
             <div class="vehicle-info">
                 <span><strong>Display Name:</strong> Buffalo Cruiser</span>
@@ -6640,6 +6632,14 @@ weight: 10
                 <span><strong>Display Name:</strong> Buffalo STX Pursuit</span>
                 <span><strong>Hash:</strong> 617517171</span>
                 <span><strong>Model Name:</strong> polbuffalo6</span>
+            </div>
+        </div>
+        <div class="vehicle">
+            <img src="/vehicles/polgauntlet.webp" alt="Gauntlet Interceptor">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> Gauntlet Interceptor</span>
+                <span><strong>Hash:</strong> 3061199846</span>
+                <span><strong>Model Name:</strong> polgauntlet</span>
             </div>
         </div>
         <div class="vehicle">
