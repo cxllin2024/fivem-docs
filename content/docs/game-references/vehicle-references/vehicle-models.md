@@ -992,6 +992,14 @@ weight: 10
             </div>
         </div>
         <div class="vehicle">
+            <img src="/vehicles/driftsent2.webp" alt="Sentinel XS">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> Sentinel XS</span>
+                <span><strong>Hash:</strong> -1006198950</span>
+                <span><strong>Model Name:</strong> driftsent2</span>
+            </div>
+        </div>
+        <div class="vehicle">
             <img src="/vehicles/exemplar.webp" alt="Exemplar">
             <div class="vehicle-info">
                 <span><strong>Display Name:</strong> Exemplar</span>
@@ -1093,6 +1101,14 @@ weight: 10
                 <span><strong>Display Name:</strong> Sentinel</span>
                 <span><strong>Hash:</strong> 873639469</span>
                 <span><strong>Model Name:</strong> sentinel2</span>
+            </div>
+        </div>
+        <div class="vehicle">
+            <img src="/vehicles/sentinel6.webp" alt="Sentinel XS4">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> Sentinel XS4</span>
+                <span><strong>Hash:</strong> -358638792</span>
+                <span><strong>Model Name:</strong> sentinel6</span>
             </div>
         </div>
         <div class="vehicle">
@@ -1307,6 +1323,14 @@ weight: 10
                 <span><strong>Display Name:</strong> Dominator GT</span>
                 <span><strong>Hash:</strong> 3853757601</span>
                 <span><strong>Model Name:</strong> dominator9</span>
+            </div>
+        </div>
+        <div class="vehicle">
+            <img src="/vehicles/driftdom9.webp" alt="Dominator GT">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> Dominator GT</span>
+                <span><strong>Hash:</strong> -855850193</span>
+                <span><strong>Model Name:</strong> driftdom9</span>
             </div>
         </div>
         <div class="vehicle">
@@ -1884,6 +1908,14 @@ weight: 10
             </div>
         </div>
         <div class="vehicle">
+            <img src="/vehicles/astrale.webp" alt="Astrale">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> Astrale</span>
+                <span><strong>Hash:</strong> 1596736441</span>
+                <span><strong>Model Name:</strong> astrale</span>
+            </div>
+        </div>
+        <div class="vehicle">
             <img src="/vehicles/btype.webp" alt="Roosevelt">
             <div class="vehicle-info">
                 <span><strong>Display Name:</strong> Roosevelt</span>
@@ -1988,11 +2020,27 @@ weight: 10
             </div>
         </div>
         <div class="vehicle">
+            <img src="/vehicles/gt750.webp" alt="GT750">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> GT750</span>
+                <span><strong>Hash:</strong> 1380582820</span>
+                <span><strong>Model Name:</strong> gt750</span>
+            </div>
+        </div>
+        <div class="vehicle">
             <img src="/vehicles/infernus2.webp" alt="Infernus Classic">
             <div class="vehicle-info">
                 <span><strong>Display Name:</strong> Infernus Classic</span>
                 <span><strong>Hash:</strong> 2889029532</span>
                 <span><strong>Model Name:</strong> infernus2</span>
+            </div>
+        </div>
+        <div class="vehicle">
+            <img src="/vehicles/itali2.webp" alt="Itali Classic">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> Itali Classic</span>
+                <span><strong>Hash:</strong> 893780296</span>
+                <span><strong>Model Name:</strong> itali2</span>
             </div>
         </div>
         <div class="vehicle">
@@ -2455,6 +2503,14 @@ weight: 10
                 <span><strong>Display Name:</strong> Remus</span>
                 <span><strong>Hash:</strong> 2670883828</span>
                 <span><strong>Model Name:</strong> driftremus</span>
+            </div>
+        </div>
+        <div class="vehicle">
+            <img src="/vehicles/driftrt3.webp" alt="RT3000">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> RT3000</span>
+                <span><strong>Hash:</strong> 1730644782</span>
+                <span><strong>Model Name:</strong> driftrt3</span>
             </div>
         </div>
         <div class="vehicle">
@@ -3256,6 +3312,14 @@ weight: 10
             </div>
         </div>
         <div class="vehicle">
+            <img src="/vehicles/fmj2.webp" alt="FMJ MK V">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> FMJ MK V</span>
+                <span><strong>Hash:</strong> -1007324375</span>
+                <span><strong>Model Name:</strong> fmj2</span>
+            </div>
+        </div>
+        <div class="vehicle">
             <img src="/vehicles/furia.webp" alt="Furia">
             <div class="vehicle-info">
                 <span><strong>Display Name:</strong> Furia</span>
@@ -3325,6 +3389,14 @@ weight: 10
                 <span><strong>Display Name:</strong> LM87</span>
                 <span><strong>Hash:</strong> 4284049613</span>
                 <span><strong>Model Name:</strong> lm87</span>
+            </div>
+        </div>
+        <div class="vehicle">
+            <img src="/vehicles/luiva.webp" alt="Luiva">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> Luiva</span>
+                <span><strong>Hash:</strong> -938068410</span>
+                <span><strong>Model Name:</strong> luiva</span>
             </div>
         </div>
         <div class="vehicle">
@@ -3581,6 +3653,14 @@ weight: 10
                 <span><strong>Display Name:</strong> XA-21</span>
                 <span><strong>Hash:</strong> 917809321</span>
                 <span><strong>Model Name:</strong> xa21</span>
+            </div>
+        </div>
+        <div class="vehicle">
+            <img src="/vehicles/xtreme.webp" alt="X-treme">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> X-treme</span>
+                <span><strong>Hash:</strong> -1778998583</span>
+                <span><strong>Model Name:</strong> xtreme</span>
             </div>
         </div>
         <div class="vehicle">
@@ -4853,6 +4933,22 @@ weight: 10
                 <span><strong>Display Name:</strong> Graintrailer</span>
                 <span><strong>Hash:</strong> 1019737494</span>
                 <span><strong>Model Name:</strong> graintrailer</span>
+            </div>
+        </div>
+        <div class="vehicle">
+            <img src="/vehicles/dkeitora.webp" alt="Keitora">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> Keitora</span>
+                <span><strong>Hash:</strong> -1555091703</span>
+                <span><strong>Model Name:</strong> dkeitora</span>
+            </div>
+        </div>
+        <div class="vehicle">
+            <img src="/vehicles/keitora.webp" alt="Keitora">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> Keitora</span>
+                <span><strong>Hash:</strong> -402415705</span>
+                <span><strong>Model Name:</strong> keitora</span>
             </div>
         </div>
         <div class="vehicle">
@@ -6453,6 +6549,14 @@ weight: 10
             </div>
         </div>
         <div class="vehicle">
+            <img src="/vehicles/vivanite2.webp" alt="Vivanite">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> Vivanite</span>
+                <span><strong>Hash:</strong> 507621923</span>
+                <span><strong>Model Name:</strong> vivanite2</span>
+            </div>
+        </div>
+        <div class="vehicle">
             <img src="/vehicles/wastelander.webp" alt="Wastelander">
             <div class="vehicle-info">
                 <span><strong>Display Name:</strong> Wastelander</span>
@@ -6520,6 +6624,22 @@ weight: 10
                 <span><strong>Display Name:</strong> Gauntlet Interceptor</span>
                 <span><strong>Hash:</strong> 3061199846</span>
                 <span><strong>Model Name:</strong> polgauntlet</span>
+            </div>
+        </div>
+        <div class="vehicle">
+            <img src="/vehicles/polbuffalo.webp" alt="Buffalo Cruiser">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> Buffalo Cruiser</span>
+                <span><strong>Hash:</strong> 287906327</span>
+                <span><strong>Model Name:</strong> polbuffalo</span>
+            </div>
+        </div>
+        <div class="vehicle">
+            <img src="/vehicles/polbuffalo6.webp" alt="Buffalo STX Pursuit">
+            <div class="vehicle-info">
+                <span><strong>Display Name:</strong> Buffalo STX Pursuit</span>
+                <span><strong>Hash:</strong> 617517171</span>
+                <span><strong>Model Name:</strong> polbuffalo6</span>
             </div>
         </div>
         <div class="vehicle">
